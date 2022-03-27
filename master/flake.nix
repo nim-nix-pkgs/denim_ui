@@ -11,6 +11,7 @@
   inputs.src-denim_ui-master.ref   = "refs/heads/master";
   inputs.src-denim_ui-master.owner = "nortero-code";
   inputs.src-denim_ui-master.repo  = "denim-ui";
+  inputs.src-denim_ui-master.dir   = "";
   inputs.src-denim_ui-master.type  = "github";
   
   inputs."itertools".owner = "nim-nix-pkgs";
