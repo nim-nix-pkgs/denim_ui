@@ -15,11 +15,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367058,
-        "narHash": "sha256-lhKUloPi76mFommqqmyCDeRFnhviXzlXMzLPjAfWoC4=",
+        "lastModified": 1652392749,
+        "narHash": "sha256-/azBM3iazaomlEy4Nzs5DQiY7OYyBeOsFNOpl9dwlko=",
         "owner": "nim-nix-pkgs",
         "repo": "denim_ui",
-        "rev": "e229c23e8ce31ac53f04bb67413f15783d22eec8",
+        "rev": "683f45c3011e9ab011f94a90e657143672be3471",
         "type": "github"
       },
       "original": {
